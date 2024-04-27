@@ -1,6 +1,7 @@
 # 🤖 Creating and Training a Encoder-Decoder Style Model (from Attention is All You Need) From Scratch 
 
-In this repo, we'll be working through an example of how we can create, and then train, the original Transformer from the Attention is All You Need paper. This project was done during Week 1 of AI Makerspace's LLM Engineering Cohort 2 (LLME2).
+In this repo, we'll be working through an example of how we can create, and then train, the original Transformer from the Attention is All You Need paper. 
+
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1Gwaz3slF8Jx5zlkW5_RK3bD43kFchVSX?usp=sharing)
 
